@@ -10,7 +10,7 @@
 
 `timescale 1ns / 1ps
 
-module one_bit_full_adder
+module OneBitFullAdder
 #(
 //---------------------------------------------------------------------------------------------------------------------
 // parameter definitions
